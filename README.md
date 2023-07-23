@@ -2,7 +2,7 @@
 
 Bem vindo ao meu repositório guia de instalação de sistemas avançados!
 vamos abordar a instalação guia dos:
-* Gentoo Linux
+* ![Gentoo Linux](https://github.com/Machinh/advancedOSguide-PT/blob/main/Gentoo.md)
 * Arch Linux
 * Void Linux
 
