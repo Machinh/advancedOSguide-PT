@@ -14,4 +14,5 @@ pré-compilados, já o Gentoo é uma distribuição de "compilação através do
 
 # Get Gentoo
 
-* Sistema de inicialização: temos 2 versões, openrc e systemd default: systemd
+* Sistema de inicialização: temos 2 versões, openrc e systemd default: systemd (se você se arrepender pode trocar)
+  
