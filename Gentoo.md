@@ -8,7 +8,7 @@ você vai precisar de conhecimentos mais vançados para a instalação, por isso
 
 um sistema difícil por exemplo, na maior parte dos sistemas operacionais é fornecida como pacotes binários
 
-pré-compilados, já o Gentoo é uma distribuição de "compilação através do código fonte"
+pré-compilados, já o Gentoo é uma distribuição de "compilação através do código fonte" que significa que a maior parte do software é compilada a partir do código-fonte.
 
 
 
