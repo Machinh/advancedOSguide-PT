@@ -1,1 +1,17 @@
-Bem vindo ao Guia da instalação do Gentoo!
+# Gentoo
+
+Bem vindo ao Guia da instalação do Gentoo, para informações detalhadas acesse o guia oficial do Gentoo.
+
+O Gentoo é um sistema operacional mais avançado que muitos outros como ubuntu como exemplo, no Gentoo
+
+você vai precisar de conhecimentos mais vançados para a instalação, por isso muitos acham o Gentoo
+
+um sistema difícil por exemplo, na maior parte dos sistemas operacionais é fornecida como pacotes binários
+
+pré-compilados, já o Gentoo é uma distribuição de "compilação através do código fonte"
+
+
+
+# Get Gentoo
+
+* Sistema de inicialização: temos 2 versões, openrc e systemd
