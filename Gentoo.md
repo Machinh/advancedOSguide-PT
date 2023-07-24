@@ -13,6 +13,9 @@ pré-compilados, já o Gentoo é uma distribuição de "compilação através do
 
 
 # Get Gentoo
+* Sistema de inicialização, Stage3: temos 2 versões, openrc e systemd default: systemd(systemd é usado por distros populares como ubuntu e fedora) (se você se arrepender pode trocar)
+* Para instação via pendrive > Stage3  LiveGUI USB Image
+* Se for para um desktop com gerenciador de janelas > Stage3 profile desktop
+* para instalação para servidores(sem interface gráfica) > apenas instale um stage3 openrc ou systemd default: systemd
 
-* Sistema de inicialização, stage3: temos 2 versões, openrc e systemd default: systemd (se você se arrepender pode trocar)
   
