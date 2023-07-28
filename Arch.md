@@ -7,7 +7,7 @@ para instalar com o archinstall siga o guia abaixo
 
 # Keymaps
 
-keymaps são basicamente o teclado que você usa, por padrão sempre vai estar em inglês, o default do brasil é br-abnt2
+keymaps são basicamente o teclado que você usa, por padrão sempre vai estar em inglês, você deve setar sua keymap para o brasileiro, o default do brasil é br-abnt2
 
 ```localectl list-keymaps``` - localiza todas as keymaps utilizáveis
 
