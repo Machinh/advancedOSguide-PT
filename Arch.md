@@ -1,4 +1,4 @@
-`# Arch
+``# Arch
 
 Bem vindo ao guia de instalação do Arch
 
@@ -26,3 +26,7 @@ depois de setar seu keymap você deve configurar a network usando iwctl
 ```station wlan0 connect (network)``` - conecta a network digitando o nome completo dela em (network), para ver as networks disponiveis: ```station (device) get-networks```
 
 ```station (device) show``` - mostra a network conectada no device
+
+# instalação 
+
+depois de ter configurado a keymap é a rede você pode continuar a instalação simplemente dando um ```exit``` para sair do iwctl e digitar ```archinstall``` para entrar no modo de instalação do archinstall
