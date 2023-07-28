@@ -21,6 +21,6 @@ depois de setar seu keymap você deve configurar a network usando iwctl
 
 ```devicelist``` - lista os seus devices por exemplo "wlan0"
 
+```station wlan0 get-networks``` -  lista/pega as networks disponíveis em "wlan0" troque wlan0 pelo seu device certo, veja em ```devicelist```
 
-
-```station wlan0 get-networks``` -  lista/pega as networks disponíveis
+```station wlan0 connect (network)``` - conecta a network digitando o nome completo dela em (network), para ver as networks disponiveis: ```station (device) get-networks```
