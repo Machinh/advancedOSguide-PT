@@ -1,4 +1,4 @@
-``# Arch
+# Arch
 
 Bem vindo ao guia de instalação do Arch
 
